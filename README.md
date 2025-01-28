@@ -1,6 +1,6 @@
 # Coffee shop sales prediction ☕
 
-Modelo de regressão com séries temporais, treinado com o intuito de prever 30 dias de faturamento de uma cafeteria.
+Modelo de regressão com séries temporais, treinado com o intuito de prever o faturamento diário de uma cafeteria ao longo de um mês.
 
 
 **No projeto você encontrará:**
