@@ -15,4 +15,4 @@ Modelo de regressão com séries temporais, treinado com o intuito de prever 30 
 
 ## Acessos
 - Notebook do projeto ([Acesso](https://github.com/deborabmfreitas/coffee-shop-sales-prediction/blob/main/coffee-shop-sales-prediction.ipynb))
-- Documentação do projeto ([Acesso](https://drive.google.com/file/d/12WIdT1iqAOA-xqi9508IWXEaxBzNX_M5/view?usp=sharing))
+- Documentação do projeto ([Acesso](https://drive.google.com/file/d/1uHgkr50k_I2SA8gJFIJE7Z6zopC-44WP/view?usp=sharing))
